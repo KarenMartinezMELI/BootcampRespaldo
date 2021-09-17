@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Belgrano",
+    "price": 1000.0
+  },
+  {
+    "name": "Balvanera",
+    "price": 600.0
+  },
+  {
+    "name": "Palermo",
+    "price": 1200.0
+  },
+  {
+    "name": "Centro",
+    "price": 500.0
+  },
+  {
+    "name": "Urquiza",
+    "price": 1400.0
+  },
+  {
+    "name": "Playa Serena",
+    "price": 1670023.0
+  }
+]
